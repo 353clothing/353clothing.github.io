@@ -1,4 +1,56 @@
 /* ==================================================
+  Solid Circles
+  ================================================== */
+
+.cirbtn1 {
+  text-align: center;
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  border: 25px solid red;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.cirbtn2 {
+  text-align: center;
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  border: 25px solid #50646D;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.cirbtn3 {
+  text-align: center;
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  border: 25px solid #D8D8D8; 
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.cirbtn4 {
+  text-align: center;
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  border: 25px solid #B8B8B8;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+/* ==================================================
   General
   ================================================== */
 
