@@ -503,11 +503,11 @@ a:hover {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #199EB8;
+  color: #fff;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #199EB8;
+  color: #fff;
 }
 
 #mobile-body-overly {
