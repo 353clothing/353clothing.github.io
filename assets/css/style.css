@@ -1,82 +1,4 @@
-/* ==================================================
-  Solid Circles
-  ================================================== */
-
-.cirbtn1 {
-  text-align: center;
-  display:block;
-  height: 50px;
-  width: 50px;
-  border-radius: 100%;
-  border: 25px solid #617687;
-  margin-left: auto;
-  margin-right: auto;
-
-}
-
-.cirbtn2 {
-  text-align: center;
-  display:block;
-  height: 50px;
-  width: 50px;
-  border-radius: 100%;
-  border: 25px solid #3b3c41;
-  margin-left: auto;
-  margin-right: auto;
-  
-}
-
-.cirbtn3 {
-  text-align: center;
-  display:block;
-  height: 50px;
-  width: 50px;
-  border-radius: 100%;
-  border: 25px solid #c9c9c7; 
-  margin-left: auto;
-  margin-right: auto;
-  
-}
-
-.cirbtn4 {
-  text-align: center;
-  display:block;
-  height: 50px;
-  width: 50px;
-  border-radius: 100%;
-  border: 25px solid #e0e0e2;
-  margin-left: auto;
-  margin-right: auto;
-
-}
-
-.cirbtn5 {
-  text-align: center;
-  display:block;
-  height: 50px;
-  width: 50px;
-  border-radius: 100%;
-  border: 25px solid #4f3538;
-  margin-left: auto;
-  margin-right: auto;
-
-}
-
-.cirbtn6 {
-  text-align: center;
-  display:block;
-  height: 50px;
-  width: 50px;
-  border-radius: 100%;
-  border: 25px solid #55787e;
-  margin-left: auto;
-  margin-right: auto;
-
-}
-
-/* ==================================================
-  General
-  ================================================== */
+/* @thatsparrow */
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Quicksand", sans-serif;
@@ -182,6 +104,82 @@ a:hover {
 }
 
 /* ==================================================
+  Solid Circles
+  ================================================== */
+
+.cirbtn1 {
+  text-align: center;
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  border: 25px solid #617687;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.cirbtn2 {
+  text-align: center;
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  border: 25px solid #3b3c41;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.cirbtn3 {
+  text-align: center;
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  border: 25px solid #c9c9c7; 
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.cirbtn4 {
+  text-align: center;
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  border: 25px solid #e0e0e2;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.cirbtn5 {
+  text-align: center;
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  border: 25px solid #4f3538;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.cirbtn6 {
+  text-align: center;
+  display:block;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  border: 25px solid #55787e;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+/* ==================================================
   Hero Styling
 ================================================== */
 .hero {
@@ -237,6 +235,7 @@ a:hover {
 ================================================== */
 #header {
   
+  background: #fff; 
   height: 70px;
 }
 
@@ -727,6 +726,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 .cta .btn-ghost {
   position: relative;
   top: 13px;
+}
+
+.kkk {
+  background-color: #fff;
+  padding-bottom: 0;
+  padding-top: 0;
 }
 
 /* ==================================================
