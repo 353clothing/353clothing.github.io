@@ -1,5 +1,15 @@
 # robots.txt for http://www.353clothing.com/
 
 User-agent: *
+Disallow: img/about/
+Disallow: img/home/
+Disallow: img/contact/
+Disallow: img/lookbook/
+
+User-agent: Googlebot-Image
+Disallow: img/about/
+Disallow: img/home/
+Disallow: img/contact/
+Disallow: img/lookbook/
 
 Sitemap: http://353clothing.com/sitemap.xml
