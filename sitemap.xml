@@ -4,8 +4,8 @@
 <url>
   <loc>http://353clothing.com/</loc>
   <image:image>
-       <image:loc>http://353clothing.com/assets/img/353_logo.png</image:loc>
-       <image:caption>353 Clothing Co.</image:caption>
+       <image:loc>http://353clothing.com/img/353_logo.png</image:loc>
+       <image:caption>353 Clothing | Colombo</image:caption>
   </image:image>
 </url>
 <url>
@@ -15,9 +15,6 @@
   <loc>http://353clothing.com/lookbook/</loc>
 </url>
 <url>
-  <loc>http://353clothing.com/store/</loc>
-</url>
-<url>
-  <loc>http://353clothing.com/gallery/</loc>
+  <loc>http://353clothing.com/purchase/</loc>
 </url>
 </urlset>
