@@ -11,7 +11,7 @@ The official website of 353 Clothing | Colombo
 
 ## Authors
 
-* **Jann Benjamin** - [thatsparrow](https://github.com/thatsparrow)
+* [thatsparrow](https://github.com/thatsparrow)
 
 ## License
 
