@@ -1,18 +1,11 @@
-# 353clothing.com
+# Title: The official website of 353 Clothing | Colombo
+# Contributors: @thatsparrow
 
-The official website of 353 Clothing | Colombo
+Built With
 
-## Built With
-
-* [Bootstrap v4](https://v4-alpha.getbootstrap.com/getting-started/download/) - Framework
-* [Sublime Text 3](https://www.sublimetext.com/3) - Text Editor
-* [Git](https://git-scm.com/) - Version Control 
-* [GIMP](https://www.gimp.org/) - Image Editor 
-
-## Authors
-
-* [thatsparrow](https://github.com/thatsparrow)
-
-## License
++ Bootstrap @ <https://v4-alpha.getbootstrap.com/getting-started/download/>
++ Sublime Text 3 @ <https://www.sublimetext.com/3> 
++ Git @ <https://git-scm.com/> 
++ GIMP @ <https://www.gimp.org/>
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
