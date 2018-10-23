@@ -12,7 +12,7 @@ $.getJSON(queryURL, function (data) {
   var text = firstResult.text
 
   
-  $('#output').append( 'COLOMBO, Sri Lanka | '+ temp + '°C : ' +text);
+  $('#output').append( 'Colombo | '+ temp + '°C : ' +text);
   
 })
 
