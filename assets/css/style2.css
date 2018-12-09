@@ -202,6 +202,20 @@ a:hover {
 
 }
 
+/* 
+
+Heather II
+
+olive
+coffee and cream
+marble grey 
+
+Solid I
+
+
+
+*/ 
+
 .cirbtn7 {
   text-align: center;
   display:block;
@@ -220,7 +234,7 @@ a:hover {
   height: 5px;
   width: 5px;
   border-radius: 50%;
-  border: 15px solid #55787e;
+  border: 15px solid #ece0d1;
   margin-left: auto;
   margin-right: auto;
 
@@ -232,7 +246,7 @@ a:hover {
   height: 5px;
   width: 5px;
   border-radius: 50%;
-  border: 15px solid #55787e;
+  border: 15px solid #191919;
   margin-left: auto;
   margin-right: auto;
 
