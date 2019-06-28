@@ -1,4 +1,4 @@
-Copyright (c) 2018 353clothing.com
+Copyright (c) 2019 353clothing.github.io
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
